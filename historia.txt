@@ -13,4 +13,5 @@ ahora son las 4:32 y llevo el 23 % del curso, auemnto el tiempo
 ya que tome un descanso para almorzar.
 
 siendo las 05:19, del mismo 28/06/2023 ya comenzamos con un
-pequeño blogpost en html y css.
+pequeño blogpost en html y css. conservando tambien la 
+hostiria.txt
